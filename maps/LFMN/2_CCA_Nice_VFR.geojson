@@ -4,7 +4,7 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Nice Autoroute",
+                "name": "Nice SIV Autoroute",
                 "lineStyle": {
                     "color": [
                         140,
@@ -1366,172 +1366,649 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Nice VFR Points",
-                "pointStyle": {
-                    "type": "cross",
+                "uuid": "Nice VFR Point",
+                "textStyle": {
                     "color": [
-                        98,
-                        100,
-                        128
+                        161,
+                        164,
+                        212
                     ],
-                    "size": "medium",
-                    "opacity": 1
+                    "fontFamily": "Arial",
+                    "fontSize": 12,
+                    "fontWeight": 600,
+                    "text": "E"
                 }
             },
             "geometry": {
                 "type": "MultiPoint",
                 "coordinates": [
                     [
-                        6.39583333,
-                        43.08
+                        7.511111,
+                        43.75
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "uuid": "Nice VFR Point",
+                "textStyle": {
+                    "color": [
+                        161,
+                        164,
+                        212
                     ],
+                    "fontFamily": "Arial",
+                    "fontSize": 12,
+                    "fontWeight": 600,
+                    "text": "EA"
+                }
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
                     [
-                        6.29472222,
-                        43.11027778
+                        7.345556,
+                        43.654722
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "uuid": "Nice VFR Point",
+                "textStyle": {
+                    "color": [
+                        161,
+                        164,
+                        212
                     ],
+                    "fontFamily": "Arial",
+                    "fontSize": 12,
+                    "fontWeight": 600,
+                    "text": "EC"
+                }
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
                     [
-                        6.23888889,
-                        42.96416667
+                        7.426944,
+                        43.701389
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "uuid": "Nice VFR Point",
+                "textStyle": {
+                    "color": [
+                        161,
+                        164,
+                        212
                     ],
-                    [
-                        6.18361111,
-                        43.15777778
-                    ],
-                    [
-                        6.85555556,
-                        43.39833333
-                    ],
-                    [
-                        7.34555556,
-                        43.65472222
-                    ],
-                    [
-                        7.42694444,
-                        43.70138889
-                    ],
-                    [
-                        6.59277778,
-                        43.26388889
-                    ],
-                    [
-                        6.61805556,
-                        43.16138889
-                    ],
+                    "fontFamily": "Arial",
+                    "fontSize": 12,
+                    "fontWeight": 600,
+                    "text": "EW"
+                }
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
                     [
                         6.98,
                         43.66
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "uuid": "Nice VFR Point",
+                "textStyle": {
+                    "color": [
+                        161,
+                        164,
+                        212
                     ],
+                    "fontFamily": "Arial",
+                    "fontSize": 12,
+                    "fontWeight": 600,
+                    "text": "NA"
+                }
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
                     [
-                        6.58638889,
-                        43.25277778
-                    ],
-                    [
-                        6.58416667,
-                        43.23888889
-                    ],
-                    [
-                        6.55944444,
-                        43.22888889
-                    ],
-                    [
-                        6.55388889,
-                        43.2225
-                    ],
-                    [
-                        6.62222222,
-                        43.20666667
-                    ],
-                    [
-                        6.66722222,
-                        43.20138889
-                    ],
-                    [
-                        6.97027778,
-                        43.54416667
-                    ],
-                    [
-                        7.01666667,
-                        43.52555556
-                    ],
-                    [
-                        6.95861111,
-                        43.53777778
-                    ],
-                    [
-                        6.99777778,
-                        43.58583333
-                    ],
-                    [
-                        6.11583333,
-                        43.16277778
-                    ],
-                    [
-                        7.18888889,
+                        7.188889,
                         43.75
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "uuid": "Nice VFR Point",
+                "textStyle": {
+                    "color": [
+                        161,
+                        164,
+                        212
                     ],
+                    "fontFamily": "Arial",
+                    "fontSize": 12,
+                    "fontWeight": 600,
+                    "text": "NB"
+                }
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
                     [
-                        7.18666667,
+                        7.186667,
                         43.6975
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "uuid": "Nice VFR Point",
+                "textStyle": {
+                    "color": [
+                        161,
+                        164,
+                        212
                     ],
+                    "fontFamily": "Arial",
+                    "fontSize": 12,
+                    "fontWeight": 600,
+                    "text": "SA"
+                }
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
                     [
-                        7.07777778,
-                        43.53944444
+                        7.046944,
+                        43.488889
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "uuid": "Nice VFR Point",
+                "textStyle": {
+                    "color": [
+                        161,
+                        164,
+                        212
                     ],
+                    "fontFamily": "Arial",
+                    "fontSize": 12,
+                    "fontWeight": 600,
+                    "text": "SB"
+                }
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
                     [
-                        5.81666667,
-                        43.04166667
-                    ],
-                    [
-                        7.04694444,
-                        43.48888889
-                    ],
-                    [
-                        7.14511111,
+                        7.145111,
                         43.53525
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "uuid": "Nice VFR Point",
+                "textStyle": {
+                    "color": [
+                        161,
+                        164,
+                        212
                     ],
+                    "fontFamily": "Arial",
+                    "fontSize": 12,
+                    "fontWeight": 600,
+                    "text": "WA"
+                }
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
                     [
-                        7.03166667,
-                        43.5075
+                        7.145472,
+                        43.667
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "uuid": "Nice VFR Point",
+                "textStyle": {
+                    "color": [
+                        161,
+                        164,
+                        212
                     ],
+                    "fontFamily": "Arial",
+                    "fontSize": 12,
+                    "fontWeight": 600,
+                    "text": "WN"
+                }
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
                     [
-                        6.935,
-                        43.43583333
+                        7.197222,
+                        43.668333
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "uuid": "Nice VFR Point",
+                "textStyle": {
+                    "color": [
+                        161,
+                        164,
+                        212
                     ],
-                    [
-                        7.00166667,
-                        43.53666667
-                    ],
+                    "fontFamily": "Arial",
+                    "fontSize": 12,
+                    "fontWeight": 600,
+                    "text": "TE"
+                }
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
                     [
                         7.3025,
-                        43.63719444
+                        43.637194
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "uuid": "Nice VFR Point",
+                "textStyle": {
+                    "color": [
+                        161,
+                        164,
+                        212
                     ],
+                    "fontFamily": "Arial",
+                    "fontSize": 12,
+                    "fontWeight": 600,
+                    "text": "TS"
+                }
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
                     [
-                        7.22783333,
-                        43.58888889
+                        7.227833,
+                        43.588889
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "uuid": "Nice VFR Point",
+                "textStyle": {
+                    "color": [
+                        161,
+                        164,
+                        212
                     ],
+                    "fontFamily": "Arial",
+                    "fontSize": 12,
+                    "fontWeight": 600,
+                    "text": "PF"
+                }
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
                     [
-                        6.28027778,
-                        43.19166667
+                        7.077778,
+                        43.539444
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "uuid": "Nice VFR Point",
+                "textStyle": {
+                    "color": [
+                        161,
+                        164,
+                        212
                     ],
+                    "fontFamily": "Arial",
+                    "fontSize": 12,
+                    "fontWeight": 600,
+                    "text": "N"
+                }
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
                     [
-                        7.14547222,
-                        43.66697222
+                        6.853056,
+                        43.632778
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "uuid": "Nice VFR Point",
+                "textStyle": {
+                    "color": [
+                        161,
+                        164,
+                        212
                     ],
+                    "fontFamily": "Arial",
+                    "fontSize": 12,
+                    "fontWeight": 600,
+                    "text": "SW"
+                }
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
                     [
-                        6.80666667,
-                        43.52111111
+                        6.935,
+                        43.435833
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "uuid": "Nice VFR Point",
+                "textStyle": {
+                    "color": [
+                        161,
+                        164,
+                        212
                     ],
+                    "fontFamily": "Arial",
+                    "fontSize": 12,
+                    "fontWeight": 600,
+                    "text": "DR"
+                }
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
                     [
-                        6.79388889,
-                        43.55388889
+                        6.855556,
+                        43.398333
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "uuid": "Nice VFR Point",
+                "textStyle": {
+                    "color": [
+                        161,
+                        164,
+                        212
                     ],
+                    "fontFamily": "Arial",
+                    "fontSize": 12,
+                    "fontWeight": 600,
+                    "text": "WL"
+                }
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
                     [
-                        7.19722222,
-                        43.66833333
+                        6.793889,
+                        43.553889
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "uuid": "Nice VFR Point",
+                "textStyle": {
+                    "color": [
+                        161,
+                        164,
+                        212
                     ],
+                    "fontFamily": "Arial",
+                    "fontSize": 12,
+                    "fontWeight": 600,
+                    "text": "WD"
+                }
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
                     [
-                        5.60444444,
-                        43.14416667
+                        6.806667,
+                        43.521111
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "uuid": "Nice VFR Point",
+                "textStyle": {
+                    "color": [
+                        161,
+                        164,
+                        212
+                    ],
+                    "fontFamily": "Arial",
+                    "fontSize": 12,
+                    "fontWeight": 600,
+                    "text": "LC"
+                }
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        6.997778,
+                        43.585833
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "uuid": "Nice VFR Point",
+                "textStyle": {
+                    "color": [
+                        161,
+                        164,
+                        212
+                    ],
+                    "fontFamily": "Arial",
+                    "fontSize": 12,
+                    "fontWeight": 600,
+                    "text": "HE"
+                }
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        6.970278,
+                        43.544167
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "uuid": "Nice VFR Point",
+                "textStyle": {
+                    "color": [
+                        161,
+                        164,
+                        212
+                    ],
+                    "fontFamily": "Arial",
+                    "fontSize": 12,
+                    "fontWeight": 600,
+                    "text": "HV"
+                }
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        7.016667,
+                        43.525556
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "uuid": "Nice VFR Point",
+                "textStyle": {
+                    "color": [
+                        161,
+                        164,
+                        212
+                    ],
+                    "fontFamily": "Arial",
+                    "fontSize": 12,
+                    "fontWeight": 600,
+                    "text": "HW"
+                }
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        6.958611,
+                        43.537778
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "uuid": "Nice VFR Point",
+                "textStyle": {
+                    "color": [
+                        161,
+                        164,
+                        212
+                    ],
+                    "fontFamily": "Arial",
+                    "fontSize": 12,
+                    "fontWeight": 600,
+                    "text": "SV"
+                }
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        7.031667,
+                        43.5075
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "uuid": "Nice VFR Point",
+                "textStyle": {
+                    "color": [
+                        161,
+                        164,
+                        212
+                    ],
+                    "fontFamily": "Arial",
+                    "fontSize": 12,
+                    "fontWeight": 600,
+                    "text": "TA"
+                }
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        7.001667,
+                        43.536667
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "uuid": "Nice VFR Point",
+                "textStyle": {
+                    "color": [
+                        161,
+                        164,
+                        212
+                    ],
+                    "fontFamily": "Arial",
+                    "fontSize": 12,
+                    "fontWeight": 600,
+                    "text": "TD"
+                }
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        6.994444,
+                        43.505556
                     ]
                 ]
             }

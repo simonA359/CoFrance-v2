@@ -4,7 +4,7 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Nice AMSR",
+                "name": "Nice AMG",
                 "lineStyle": {
                     "color": [
                         45,
@@ -89,7 +89,7 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Nice AMSR",
+                "name": "Nice AMG",
                 "lineStyle": {
                     "color": [
                         45,
@@ -310,7 +310,7 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Nice AMSR",
+                "name": "Nice AMG",
                 "lineStyle": {
                     "color": [
                         45,
@@ -411,7 +411,7 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Nice AMSR",
+                "name": "Nice AMG",
                 "lineStyle": {
                     "color": [
                         45,
@@ -488,7 +488,7 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Nice AMSR",
+                "name": "Nice AMG",
                 "lineStyle": {
                     "color": [
                         45,
@@ -669,7 +669,7 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Nice AMSR",
+                "name": "Nice AMG",
                 "lineStyle": {
                     "color": [
                         45,
@@ -722,7 +722,7 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Nice AMSR",
+                "name": "Nice AMG",
                 "lineStyle": {
                     "color": [
                         45,
@@ -887,7 +887,7 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Nice AMSR",
+                "name": "Nice AMG",
                 "lineStyle": {
                     "color": [
                         45,
@@ -1052,7 +1052,7 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Nice AMSR",
+                "name": "Nice AMG",
                 "lineStyle": {
                     "color": [
                         45,
@@ -1113,7 +1113,7 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Nice AMSR",
+                "name": "Nice AMG",
                 "lineStyle": {
                     "color": [
                         45,
@@ -2190,7 +2190,7 @@
         {
             "type": "Feature",
             "properties": {
-                "uuid": "Nice AMSR Altitudes",
+                "uuid": "Nice AMG Altitudes",
                 "textStyle": {
                     "color": [
                         45,
@@ -2216,7 +2216,7 @@
         {
             "type": "Feature",
             "properties": {
-                "uuid": "Nice AMSR Altitudes",
+                "uuid": "Nice AMG Altitudes",
                 "textStyle": {
                     "color": [
                         45,
@@ -2242,7 +2242,7 @@
         {
             "type": "Feature",
             "properties": {
-                "uuid": "Nice AMSR Altitudes",
+                "uuid": "Nice AMG Altitudes",
                 "textStyle": {
                     "color": [
                         45,
@@ -2268,7 +2268,7 @@
         {
             "type": "Feature",
             "properties": {
-                "uuid": "Nice AMSR Altitudes",
+                "uuid": "Nice AMG Altitudes",
                 "textStyle": {
                     "color": [
                         45,
@@ -2294,7 +2294,7 @@
         {
             "type": "Feature",
             "properties": {
-                "uuid": "Nice AMSR Altitudes",
+                "uuid": "Nice AMG Altitudes",
                 "textStyle": {
                     "color": [
                         45,
@@ -2320,7 +2320,7 @@
         {
             "type": "Feature",
             "properties": {
-                "uuid": "Nice AMSR Altitudes",
+                "uuid": "Nice AMG Altitudes",
                 "textStyle": {
                     "color": [
                         45,
@@ -2346,7 +2346,7 @@
         {
             "type": "Feature",
             "properties": {
-                "uuid": "Nice AMSR Altitudes",
+                "uuid": "Nice AMG Altitudes",
                 "textStyle": {
                     "color": [
                         45,
@@ -2372,7 +2372,7 @@
         {
             "type": "Feature",
             "properties": {
-                "uuid": "Nice AMSR Altitudes",
+                "uuid": "Nice AMG Altitudes",
                 "textStyle": {
                     "color": [
                         45,
@@ -2398,7 +2398,7 @@
         {
             "type": "Feature",
             "properties": {
-                "uuid": "Nice AMSR Altitudes",
+                "uuid": "Nice AMG Altitudes",
                 "textStyle": {
                     "color": [
                         45,
@@ -2424,7 +2424,7 @@
         {
             "type": "Feature",
             "properties": {
-                "uuid": "Nice AMSR Altitudes",
+                "uuid": "Nice AMG Altitudes",
                 "textStyle": {
                     "color": [
                         45,
@@ -2450,7 +2450,7 @@
         {
             "type": "Feature",
             "properties": {
-                "uuid": "Nice AMSR Altitudes",
+                "uuid": "Nice AMG Altitudes",
                 "textStyle": {
                     "color": [
                         45,
@@ -2476,7 +2476,7 @@
         {
             "type": "Feature",
             "properties": {
-                "uuid": "Nice AMSR Altitudes",
+                "uuid": "Nice AMG Altitudes",
                 "textStyle": {
                     "color": [
                         45,

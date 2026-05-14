@@ -2281,7 +2281,10 @@
           ],
           "width": 1.0,
           "opacity": 1.0,
-          "dashArray": null
+          "dashArray": [
+            3.0,
+            3.0
+          ]
         }
       }
     },
@@ -2323,7 +2326,10 @@
           ],
           "width": 1.0,
           "opacity": 1.0,
-          "dashArray": null
+          "dashArray": [
+            3.0,
+            3.0
+          ]
         }
       }
     },
@@ -2361,7 +2367,10 @@
           ],
           "width": 1.0,
           "opacity": 1.0,
-          "dashArray": null
+          "dashArray": [
+            3.0,
+            3.0
+          ]
         }
       }
     },
@@ -2395,7 +2404,10 @@
           ],
           "width": 1.0,
           "opacity": 1.0,
-          "dashArray": null
+          "dashArray": [
+            3.0,
+            3.0
+          ]
         }
       }
     },
@@ -2433,7 +2445,10 @@
           ],
           "width": 1.0,
           "opacity": 1.0,
-          "dashArray": null
+          "dashArray": [
+            3.0,
+            3.0
+          ]
         }
       }
     },
@@ -2463,7 +2478,10 @@
           ],
           "width": 1.0,
           "opacity": 1.0,
-          "dashArray": null
+          "dashArray": [
+            3.0,
+            3.0
+          ]
         }
       }
     },
@@ -2493,7 +2511,10 @@
           ],
           "width": 1.0,
           "opacity": 1.0,
-          "dashArray": null
+          "dashArray": [
+            3.0,
+            3.0
+          ]
         }
       }
     },
@@ -2527,7 +2548,10 @@
           ],
           "width": 1.0,
           "opacity": 1.0,
-          "dashArray": null
+          "dashArray": [
+            3.0,
+            3.0
+          ]
         }
       }
     },
@@ -2557,7 +2581,10 @@
           ],
           "width": 1.0,
           "opacity": 1.0,
-          "dashArray": null
+          "dashArray": [
+            3.0,
+            3.0
+          ]
         }
       }
     },
@@ -2587,7 +2614,10 @@
           ],
           "width": 1.0,
           "opacity": 1.0,
-          "dashArray": null
+          "dashArray": [
+            3.0,
+            3.0
+          ]
         }
       }
     },
@@ -2621,7 +2651,10 @@
           ],
           "width": 1.0,
           "opacity": 1.0,
-          "dashArray": null
+          "dashArray": [
+            3.0,
+            3.0
+          ]
         }
       }
     },
@@ -2655,7 +2688,10 @@
           ],
           "width": 1.0,
           "opacity": 1.0,
-          "dashArray": null
+          "dashArray": [
+            3.0,
+            3.0
+          ]
         }
       }
     },
@@ -2685,7 +2721,10 @@
           ],
           "width": 1.0,
           "opacity": 1.0,
-          "dashArray": null
+          "dashArray": [
+            3.0,
+            3.0
+          ]
         }
       }
     },
@@ -2719,7 +2758,10 @@
           ],
           "width": 1.0,
           "opacity": 1.0,
-          "dashArray": null
+          "dashArray": [
+            3.0,
+            3.0
+          ]
         }
       }
     },
@@ -2749,7 +2791,10 @@
           ],
           "width": 1.0,
           "opacity": 1.0,
-          "dashArray": null
+          "dashArray": [
+            3.0,
+            3.0
+          ]
         }
       }
     },
@@ -2783,7 +2828,10 @@
           ],
           "width": 1.0,
           "opacity": 1.0,
-          "dashArray": null
+          "dashArray": [
+            3.0,
+            3.0
+          ]
         }
       }
     },
@@ -2813,7 +2861,10 @@
           ],
           "width": 1.0,
           "opacity": 1.0,
-          "dashArray": null
+          "dashArray": [
+            3.0,
+            3.0
+          ]
         }
       }
     },
@@ -2847,7 +2898,10 @@
           ],
           "width": 1.0,
           "opacity": 1.0,
-          "dashArray": null
+          "dashArray": [
+            3.0,
+            3.0
+          ]
         }
       }
     },
@@ -2877,7 +2931,10 @@
           ],
           "width": 1.0,
           "opacity": 1.0,
-          "dashArray": null
+          "dashArray": [
+            3.0,
+            3.0
+          ]
         }
       }
     },
@@ -2911,7 +2968,10 @@
           ],
           "width": 1.0,
           "opacity": 1.0,
-          "dashArray": null
+          "dashArray": [
+            3.0,
+            3.0
+          ]
         }
       }
     },
@@ -2953,7 +3013,10 @@
           ],
           "width": 1.0,
           "opacity": 1.0,
-          "dashArray": null
+          "dashArray": [
+            3.0,
+            3.0
+          ]
         }
       }
     },
@@ -2987,7 +3050,10 @@
           ],
           "width": 1.0,
           "opacity": 1.0,
-          "dashArray": null
+          "dashArray": [
+            3.0,
+            3.0
+          ]
         }
       }
     },
@@ -3025,7 +3091,10 @@
           ],
           "width": 1.0,
           "opacity": 1.0,
-          "dashArray": null
+          "dashArray": [
+            3.0,
+            3.0
+          ]
         }
       }
     },
@@ -3055,7 +3124,10 @@
           ],
           "width": 1.0,
           "opacity": 1.0,
-          "dashArray": null
+          "dashArray": [
+            3.0,
+            3.0
+          ]
         }
       }
     },
@@ -3085,7 +3157,10 @@
           ],
           "width": 1.0,
           "opacity": 1.0,
-          "dashArray": null
+          "dashArray": [
+            3.0,
+            3.0
+          ]
         }
       }
     },
@@ -5318,6 +5393,69 @@
           ]
         }
       }
-    }
+    },
+            {
+            "type": "Feature",
+            "properties": {
+                "name": "Barcelone Descent Release",
+                "lineStyle": {
+                    "color": [
+                        155,
+                        100,
+                        35
+                    ],
+                    "width": 0.26,
+                    "opacity": 1,
+                    "dashArray": [
+                        2,
+                        2
+                    ]
+                }
+            },
+            "geometry": {
+                "type": "MultiLineString",
+                "coordinates": [
+                    [
+                        [
+                            2.0295885459245158,
+                            42.6727299975161,
+                            0
+                        ],
+                        [
+                            2.144426618335728,
+                            42.6727299975161,
+                            0
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "uuid": "ROCAN Reminder",
+                "textStyle": {
+                    "color": [
+                        155,
+                        100,
+                        35
+                    ],
+                    "fontFamily": "Arial",
+                    "fontSize": 12,
+                    "fontWeight": 600,
+                    "text": "305"
+                }
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        2.2341438624069885,
+                        42.6727299975161,
+                        0
+                    ]
+                ]
+            }
+        }
   ]
 }
